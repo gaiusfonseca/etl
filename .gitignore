@@ -1,0 +1,8 @@
+#ignora o pŕoprio gitignore
+.gitignore
+
+#ignora configurações específicas do vscode
+.vscode/
+
+#ignora a pasta com os arquivos que serão processados
+files/
